@@ -1,2 +1,0 @@
-# ferrytheme
-Ferry Theme Blogger
